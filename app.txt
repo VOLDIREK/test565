@@ -1,1 +1,4 @@
+HEAD
 Hello f2
+hello f3 (resolved manually)
+f3
